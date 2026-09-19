@@ -24,3 +24,6 @@ SECRETS
 
 # Data
 data/
+
+# Env
+.env
