@@ -27,3 +27,6 @@ data/
 
 # Env
 .env
+
+# Eval outputs
+runs/
